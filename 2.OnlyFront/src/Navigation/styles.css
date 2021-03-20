@@ -1,0 +1,22 @@
+.navContainer {
+    width: 220px;
+    border-right: 1px solid #ccc;
+    flex-shrink: 0;
+}
+.navList {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.navLink {
+    color: #1dca90;
+    text-decoration: none;
+    display: block;
+    padding: 10px 15px;
+    border-bottom: 1px solid #ccc;
+}
+
+.navLink:hover {
+    background-color: #eee;
+    text-decoration: underline;
+}

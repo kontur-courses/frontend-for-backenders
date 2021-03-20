@@ -13,3 +13,4 @@ bld/
 [Ll]og/
 
 node_modules/
+build/
